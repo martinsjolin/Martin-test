@@ -3,9 +3,4 @@ ny fil
 
 här skriver jag nya grejer
 
-<<<<<<< HEAD
-
-fil 2
-=======
-
->>>>>>> branch2
+ny ändring
